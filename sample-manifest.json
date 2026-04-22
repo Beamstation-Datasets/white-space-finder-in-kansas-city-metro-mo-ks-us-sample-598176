@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4138e073-0930-426d-9849-319802eecc12",
+  "export_job_id": "c3f81b00-48de-4152-ad3c-499d1bec1f52",
   "id_short": 598176,
-  "published_at": "2026-04-19T07:34:26Z",
+  "published_at": "2026-04-22T19:57:57Z",
   "repo_name": "white-space-finder-in-kansas-city-metro-mo-ks-us-sample-598176",
   "sample_asset_name": "beamstation_598176_food_and_drink-us-kansascitymoks_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/598176/beamstation_598176_food_and_drink-us-kansascitymoks_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "0f846ee5871216c7cfbe8b38a1bf714b736e23f5174c4531a1fb47739ee15da6",
-  "sample_size_bytes": 20146,
-  "total_records": 6
+  "sample_sha256": "4af4b08c96b485af6bef2e6d08ac2b68d954046756c1318f7290f959e1b4353b",
+  "sample_size_bytes": 20135,
+  "total_records": 3
 }
