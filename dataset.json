@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Kansas City, MO-KS that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Kansas City (Metro), MO-KS, US",
-  "export_job_id": "4138e073-0930-426d-9849-319802eecc12",
+  "export_job_id": "c3f81b00-48de-4152-ad3c-499d1bec1f52",
   "github_org": "Beamstation-Datasets",
   "id_short": 598176,
   "location_name": "Kansas City, MO-KS",
   "location_type": "metro",
   "repo_name": "white-space-finder-in-kansas-city-metro-mo-ks-us-sample-598176",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/598176/beamstation_598176_food_and_drink-us-kansascitymoks_SAMPLE_DIST.csv",
-  "sample_pct": 16.67,
+  "sample_pct": 33.33,
   "sample_records": 1,
-  "sample_sha256": "0f846ee5871216c7cfbe8b38a1bf714b736e23f5174c4531a1fb47739ee15da6",
-  "sample_size_bytes": 20146,
-  "total_records": 6,
-  "updated_at": "2026-04-15T07:20:03.743129+00:00"
+  "sample_sha256": "4af4b08c96b485af6bef2e6d08ac2b68d954046756c1318f7290f959e1b4353b",
+  "sample_size_bytes": 20135,
+  "total_records": 3,
+  "updated_at": "2026-04-22T13:35:48.305267+00:00"
 }
