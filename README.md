@@ -9,9 +9,9 @@
 | Dataset ID | `598176` |
 | Location | Kansas City, MO-KS |
 | Category | Restaurants |
-| Full dataset size | 3 records |
-| Free sample size | 1 records (33.33%) |
-| Last export | 2026-04-22T13:35:48.305267+00:00 |
+| Full dataset size | 6 records |
+| Free sample size | 1 records (16.67%) |
+| Last export | 2026-04-29T14:18:19.619239+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-kansas-city-metro-mo-ks-us-sample-598176/releases/download/sample-latest/beamstation_598176_food_and_drink-us-kansascitymoks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
